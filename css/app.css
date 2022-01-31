@@ -1,0 +1,9 @@
+:root {
+    /* colors */
+    --colors-background: #e2e2e2;
+    --colors-white: #ffffff;
+    --colors-black: #000000;
+
+    /* measures */
+    --sidebar-width: 200px;
+}
